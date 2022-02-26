@@ -1,0 +1,318 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The bloody treatie: or, Proceedings between the King and Prince Rupert. As also, between Pr. Rupert and Capt. Pickering. Who hath brought in 4. of the Kings collonels, to the Parliament; with the whole proceedings of Ruperts perambulation from the King at Newark, and his return to Woodstock with 400. horse. And how cruelly they used Captain Pickering during the treatie; who by the help of Collonel Willis, Collonel Honywood, Collonel Fisher, and Collonel Roulston, is now returned safe to the Parliament, and hath brought them in from the King. With Ruperts letter to the King, about a bloody massacre. Die Saturn. Decemb. 13. 1645. Appointed to be printed, and is published according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76916</idno>
+            <idno type="STC">Wing B3294</idno>
+            <idno type="STC">Thomason E311_27</idno>
+            <idno type="EEBO-CITATION">99861203</idno>
+            <idno type="PROQUEST">99861203</idno>
+            <idno type="VID">158904</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76916)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158904)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 51:E311[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The bloody treatie: or, Proceedings between the King and Prince Rupert. As also, between Pr. Rupert and Capt. Pickering. Who hath brought in 4. of the Kings collonels, to the Parliament; with the whole proceedings of Ruperts perambulation from the King at Newark, and his return to Woodstock with 400. horse. And how cruelly they used Captain Pickering during the treatie; who by the help of Collonel Willis, Collonel Honywood, Collonel Fisher, and Collonel Roulston, is now returned safe to the Parliament, and hath brought them in from the King. With Ruperts letter to the King, about a bloody massacre. Die Saturn. Decemb. 13. 1645. Appointed to be printed, and is published according to order.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.C.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rupert, --  Prince, Count Palatine, 1619-1682 --  Early works to 1800.</term>
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Macclesfield, Charles Gerard, --  Earl of, 1618?-1694.</term>
+               <term>Willis, Richard, --  Sir, fl. 1645.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Personal narratives --  Early works to 1800.</term>
+               <term>Newark (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158904:1" rendition="simple:additions"/>
+            <p>THE BLOODY TREATIE: OR, Proceedings between the KING and Prince RUPERT.</p>
+            <p>As ALSO, Between Pr. RUPERT and Capt. PICKERING.</p>
+            <p>Who hath brought in 4. of the Kings Collonels, to the Parliament; With the whole proceedings of <hi>Ruperts</hi> perambulation from the King at <hi>Newark,</hi> and his return to <hi>Woodſtock</hi> with 400. Horſe.</p>
+            <p>And how cruelly they uſed Captain <hi>Pickering</hi> during the Treatie; who by the help of Collonel <hi>Willis,</hi> Collonel <hi>Honywood,</hi> Collonel <hi>Fiſher,</hi> and Collonel <hi>Roulſton,</hi> is now returned ſafe to the Parlia<g ref="char:EOLhyphen"/>ment, and hath brought them in from the KING.</p>
+            <p>With <hi>Ruperts</hi> Letter to the King, about a bloody maſsacre.</p>
+            <p>Die Saturn. Decemb. 13. 1645.</p>
+            <p>Appointed to be printed, and is publiſhed according to Order.</p>
+            <p>LONDON, Printed for J. C. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:158904:2"/>
+            <pb n="3" facs="tcp:158904:2"/>
+            <head>Sunday Octobr. 26. 1645.</head>
+            <p>Prince <hi>Rupert,</hi> Generall <hi>Gerrhard,</hi> and Sir <hi>Richard VVillis,</hi> came into the Preſence when the King had almoſt dined. Prince <hi>Rupert</hi> came in diſcontented, with his hands at his ſides, and approaches very near the King. Whereat His Majeſtie preſent<g ref="char:EOLhyphen"/>ly commanded all to be taken away; and ri<g ref="char:EOLhyphen"/>ſing from the Table, walked to a corner of the room, the Prince, <hi>Gerrhard,</hi> and <hi>VVillis,</hi> preſented themſelves before His Majestie, and firſt <hi>VVillis</hi> ſpake after this manner.</p>
+            <sp>
+               <speaker>VVillis.</speaker>
+               <p>
+                  <seg rend="decorInit">W</seg>Hereas your Majeſtie bath put me out of this Commands, and placed another in my room, which tends very much to my diſhonour, who have been alwayes ready to ſpend my bloud in your ſervice; my humble ſuit is, that I may know my Adverſaries, and be brought to a fair triall, to anſwer what mine Enemies ſhall bring againſt me.</p>
+            </sp>
+            <pb n="4" facs="tcp:158904:3"/>
+            <sp>
+               <speaker>Prince.</speaker>
+               <p>By God this is done in mallice to me, becauſe Sir <hi>Richard</hi> hath been alwayes my faithfull friend: it is not e<g ref="char:EOLhyphen"/>nough that I muſt undeſervedly ſuffer, but all my friends muſt ſuffer with me.</p>
+            </sp>
+            <sp>
+               <speaker>Willis.</speaker>
+               <p>What I have done, hath ever been in loyalty to your Majeſty, for it hath pleaſed your Majeſty to place the Prince as Generall over me: I hoped that in obeying him, I have ſerved your Majeſty, and not done any thing to diſſerve this diſhonour.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>Say no more: this is a time unſeaſonable for you to command here.</p>
+            </sp>
+            <sp>
+               <speaker>Ierr.</speaker>
+               <p>All that Sir <hi>Richard Willis</hi> deſires is very reaſonable, for if Gentlemen be put out upon every occaſion and aſper<g ref="char:EOLhyphen"/>ſion, it will diſcourage all from ſerving your Majeſty.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>What does this concerne you? you for your parts have received honour, as much as any man, and I did not thinke you would have come to me in this manner.</p>
+            </sp>
+            <sp>
+               <speaker>Ierr.</speaker>
+               <p>The ſame perſons that have worked out Sir <hi>Richard,</hi> may worke out me; and ſo they have partly already, having been the cauſe that I was put out of my command in Wales.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>Its falſe: the reaſon that you ſtayd not there, was becauſe you were not able to ſubſiſt, the Scots approaching to beſiege Hereford.</p>
+            </sp>
+            <sp>
+               <speaker>Ierr.</speaker>
+               <p>I was able to make good Army and Garriſons againſt the Scots.</p>
+            </sp>
+            <sp>
+               <speaker>King,</speaker>
+               <p>Tell me I lie.</p>
+            </sp>
+            <sp>
+               <speaker>Prince.</speaker>
+               <p>I beſeech your Majeſty let not Sir <hi>Richard</hi> ſuffer for being my freind.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>By God he doth not.</p>
+            </sp>
+            <sp>
+               <speaker>Prince.</speaker>
+               <p>Then I defire he may be reſtored to his com<g ref="char:EOLhyphen"/>mand.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>It ſhall not be: I know what I have to do.</p>
+            </sp>
+            <pb n="5" facs="tcp:158904:3"/>
+            <sp>
+               <speaker>Prince.</speaker>
+               <p>By God the cauſe of all this is <hi>Digby.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>Tis falſe.</p>
+            </sp>
+            <sp>
+               <speaker>Gerr.</speaker>
+               <p>I am ſure, and can prove that <hi>Digby</hi> was the cauſe that I was outed of my command in Wales.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>Whoſoever ſaies, it lyes. Gentlemen I am but a child ſo you eſteme of me: <hi>Digby</hi> can leade me by the noſe, but you ſhall find —</p>
+            </sp>
+            <sp>
+               <speaker>Prince.</speaker>
+               <p>I wiſh that <hi>Digby</hi> prove not a traytor at the laſt.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>By God <hi>Digby</hi> is an honeſt man, and they that ſay otherwiſe are in effect traitors.</p>
+            </sp>
+            <sp>
+               <speaker>Gerr.</speaker>
+               <p>Then we muſt be all traitors.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>Perhaps you have ſpoke the words: otherwiſe you would never have come and raiſed ſuch mutinies, and that publickly.</p>
+            </sp>
+            <sp>
+               <speaker>Gerr.</speaker>
+               <p>No we are your Majeſtyes moſt loyall ſubjects, and we will ſpend our blood to ſerve your Majeſty.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>Where was a mutiny if this be not, and what do you tell me of ſpending your blood for me: by God I hazard my life for you, and what I do, is for the good of my people.</p>
+            </sp>
+            <sp>
+               <speaker>Willis.</speaker>
+               <p>I beſeech your Majeſty be pleaſed not to thinke that we come in any mutinous way, for we are your Majeſties moſt obedient ſubjects.</p>
+            </sp>
+            <sp>
+               <speaker>Gerr.</speaker>
+               <p>I by God to lay our lives at your Majeſties feet.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>Why do not you obey me, but come to expoſtulate with me?</p>
+            </sp>
+            <sp>
+               <speaker>Gerr.</speaker>
+               <p>Becauſe your Majeſſie is ill informed.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>Pardon, me I am but a child, <hi>Diggby</hi> can leade me. where he liſt! what can the moſt diſperate Rebbels ſay more.</p>
+            </sp>
+            <sp>
+               <speaker>Prince.</speaker>
+               <p>Will you be pleaſed to reſtore Sir <hi>Richard Willis</hi> to his command.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>No by God, not a bit. I know what I have to do.</p>
+            </sp>
+            <sp>
+               <speaker>Willis.</speaker>
+               <p>I never appeared diſloyall to his Majeſty</p>
+            </sp>
+            <pb n="6" facs="tcp:158904:4"/>
+            <sp>
+               <speaker>King.</speaker>
+               <p>I doe not ſay you have, but you and ſome with you, have notheen ſo wiſe in my ſervice, as you might have been.</p>
+            </sp>
+            <sp>
+               <speaker>VVillis.</speaker>
+               <p>I am diſgtaced every where, boyes point at me; I have nothing to live upon but my reputation, and thats now gone, for no cauſe given to your Majeſty.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>What have I left to me, I am ſure the Rebels have poſſeſſed themſelves of all my goods, Towns, Magazines, &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>Gerr.</speaker>
+               <p>I beſeech your Majeſty to conſider of that which Sir <hi>Richard</hi> propoſeth.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>
+                  <hi>Gerrhard</hi> keep your ſelfe well, and doe not mediate for others.</p>
+            </sp>
+            <sp>
+               <speaker>Prince.</speaker>
+               <p>I beſeech your Majeſty to grant me your gracicus leave and paſſe to goe beyond Seas.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>Oh Nephew, it is of great concernment, and requires conſideration. Here the Prince ſaid ſomething concerning Briſtoll, whereat the King ſaid, oh Nephew! and ſtopt there, and ſaid no more.</p>
+            </sp>
+            <sp>
+               <speaker>Prince.</speaker>
+               <p>
+                  <hi>Digby</hi> is the man that hath cauſed all this diſtracti<g ref="char:EOLhyphen"/>on betwixt us.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>They are all Rogues, and Raſcals, that ſay ſo; and in effect Traitors: that ſeek to diſhonour my beſt ſubjects.</p>
+            </sp>
+            <p>Here <hi>Gerrhard</hi> bowed himſelfe, and went out.</p>
+            <p>The Prince ſhewed no reverence, but went out roundly with his hands at his ſides: all the Train following them, and the King left in private, with Sir <hi>Richard VVillis.</hi>
+            </p>
+            <p>Sir <hi>richard</hi> told the King, that a Corporall and tenne boyes, were able to doe his Majeſty as much ſervice, as all his Majeſties Commiſsioners at Newark,</p>
+            <p>Prince Rupert ſending for Paſſes to goe with his atten<g ref="char:EOLhyphen"/>dants beyond Sea, it was granted by the Parliament, and he paſſed through our quarters with all relpect to Worceſter; he
+<pb n="7" facs="tcp:158904:4"/>deſired to come to London and paſſe this way at his pleaſure; but that was not thought fit: Captain Pickering was ſent to treat with him, and 50 l. was allowed Captian Pirkering for his journey, but he may now be glad he hath got off ſafe with the expence of fourſcore, beſides the affronts, and abu<g ref="char:EOLhyphen"/>ſes that he hath received at Worceſter; and the danger he was therein.</p>
+            <p>At Captain Pickerings coming to Worceſter, having had a Paſſe from the Governour, he expected to be uſed as a Gen<g ref="char:EOLhyphen"/>tleman, and as a ſouldier; but found it not. The Princes were civill towards him, but the Governour abuſed him unwor<g ref="char:EOLhyphen"/>thily; and as ſoon as he came thither, ſet a Guard upon him; and not only ſo, but ſome officers in Worceſter came into his chamber, and ſeverall times affronted him, and called him Rogue, and other affronts they put upon him; and had he not had ſtiends there, he had bin in danger not to have got a<g ref="char:EOLhyphen"/>way.</p>
+            <p>But that that is no wonder they ſhould ſo affront an officer of ours, for they doe much raile againſt the King himſelf, and uſe very baſe words againſt his Majeſty for keeping them ſo poor.</p>
+            <p>Prince <hi>Rupert</hi> ſeeing that he could not obtain his own ends in procuirng leave to come to London, to remain in our quar<g ref="char:EOLhyphen"/>ters, ſo long as he pleaſeth; he would not treat any further, but with his brother Maurice, Gen. Gerrhard, and about 400 in all, marched from Worceſter, and robbing, and plunder<g ref="char:EOLhyphen"/>ing the Country as they went, continued their journie to Woodſtock, not preſuming to go into Oxford as yet, the reaſon of which is not yet knowne; it being concived to be only a plot, all this while: and every thing they do frame to cheate the world by making a taigned ſhaddow, of that which is not; yet Colonel Pickring kept on ſome correſpon<g ref="char:EOLhyphen"/>dencie
+<pb n="8" facs="tcp:158904:5"/>with ſome Gentlemen in Worceſter, about their coming in, who offered to take the oath never to be ayding or aſſiſting to the King, only to have paſſes to go beyond ſea, to ſerve in other warres; and were it ſo that theſe Gentle<g ref="char:EOLhyphen"/>men had not helped Captaine Pickering, he had not then got away, but was by the enemy kept priſoner in Worceſter, and that for the ſpace of 5 weeks in all from his firſt coming thither, till the time he got away. Captaine Pickering ha<g ref="char:EOLhyphen"/>ving before ſent ſome officers to our quarters elſewhere, brought away 4 Coll. now out of Woreeſter, at his coming away: <hi>viz:</hi> Col: Wilſis, Sir Rich: brother, Col: Hunniwood, Col: Fleſher, and Col: Ralſton, who have been active men for the King; but are now ſo low, that they are forced to deſire paſſes to goe beyond Sea to ſome other wars, where they may live by the ſword. One of theſe Collonels is left ſick by the way, the other 3 came with Captain Pickering to London, who did all tender their perſons to him before the date of the day according to the Declaration was expired, what the rea<g ref="char:EOLhyphen"/>ſon is of Ruperts removing at Woodſtock, and that he goes not in to Oxford, is not known, bu probablie it is either to goe on with the deſign carried on by agreement on all ſides on the enemies part, or elſe becauſe he dare not goe to Oxford till he knowes his Majeſties pleaſure, but ſome letters Prince Rupert hath ſent to the King to Oxford about ſome deſign in hand.</p>
+            <p>It is ſaid that Rupert tenders a Maſſacre or bloudy blow to be gi<g ref="char:EOLhyphen"/>ven in the Kings behalfe (ſome where) to redeem himſelfe into his Majeſties favour, if it may be accepted; they are in a deſperate con<g ref="char:EOLhyphen"/>dition, and working deſperate deſigns; the Lord direct them, and prevent all their bloody plots, and conſpirscies; ſome ſay that the eleventh of this month was the farall day intended, but was after prorogued; but God is our protector, who hath and will defend his people that truſt in him.</p>
+            <closer>Soli Deo gloria.</closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
